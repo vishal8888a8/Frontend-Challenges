@@ -1,0 +1,45 @@
+.body{
+    text-align: center;
+    margin: 0;
+    font-family: Kumbh Sans;
+    background-image: url(./images/bg-pattern-top.svg);
+}
+
+.wrapper{
+    width:23%;
+    margin: 0px auto;
+    margin-top: 120px;
+    text-align: center;
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 2%;
+}
+.wrap2{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.blue_top{
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
+
+.num{
+    word-spacing: 60px;
+}
+.num2{
+    word-spacing: 60px;
+}
+.pic{
+    border-radius: 100%;
+    position: absolute;
+    right: 120px;
+    top: 90px;
+    border: solid white 5px;
+}
+span{
+    color: grey;
+}
+/* ********* */
+.attribution{
+padding-top: 20px;
+}
