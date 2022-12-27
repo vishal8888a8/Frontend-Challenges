@@ -1,0 +1,35 @@
+body{
+    background-color: hsl(220, 15%, 55%);
+    font-family: outfit,sans-serif;
+}
+
+.card{
+    height: inherit;
+    width: 260px;
+    margin: auto;
+    margin-bottom: 150px;
+    margin-top: 100px;
+    text-align: center;
+    padding: 10px;
+    font-size:15px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 13px;
+}
+
+img{
+    display: block;
+    width:260px;
+    height: 260px;
+    margin:auto;
+    border-radius: 13px;
+}
+
+p{
+    font-weight: 400;
+    color: hsl(212, 45%, 89%);
+}
+
+h2{
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
